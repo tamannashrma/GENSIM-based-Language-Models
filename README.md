@@ -1,4 +1,4 @@
-# GENSIM-based-Language-Models
+# GENSIM-based-TOPIC-Models
 Creating Dictionary, 
 Bag of Words Model, 
 Latent Semantic Indexing Model, 
